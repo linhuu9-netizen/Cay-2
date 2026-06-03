@@ -1,7 +1,0 @@
-[InputMethod]
-Name=CayIME
-Icon=cayime
-Label=Cay
-LangCode=vi
-Addon=cayime
-Configurable=False
